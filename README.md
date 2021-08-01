@@ -8,3 +8,5 @@ How to install
 4. Got to Environment variables and Change the path to location of the python folder attached inside the panda 3d folder
 5. Copy the folder 'Project' in your Computer
 6. Open minipro.py in geany and then execute.
+
+Fetch panda3d sdk from her: https://drive.google.com/drive/folders/1IL1VEDb0DMexu9NmNRz9sDxhb9fK_Bmb?usp=sharing
